@@ -20,4 +20,4 @@ License：
 
 1) 解压 Master-thesis_IMU20260610.rar 将6种字体放入解压后的文件夹
 2) 打开主文件Master-thesis_IMU.tex
-3) 使用xelatex编译2遍，运行biblatex2遍，在用xelatex编译1遍，保证封面正常显示 
+3) 使用xelatex编译2遍，运行biblatex2遍，再用xelatex编译1遍，保证封面正常显示 
